@@ -2,7 +2,7 @@
   "name": "whatsapp-desktop",
   "version": "0.0.1",
   "description": "A desktop client for Telegram, written in node.",
-  "main": "app.js",
+  "main": "init.js",
   "scripts": {
     "test": "electron app.js"
   },
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/nikhiljha/WhatsApp-Desktop/issues"
   },
-  "homepage": "https://github.com/nikhiljha/WhatsApp-Desktop#readme",
-  "dependencies": {
-    "electron": "^0.4.1"
+  "homepage": "https://github.com/nikhiljha/WhatsApp-Desktop#readme"
   }
-}
