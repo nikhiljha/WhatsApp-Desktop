@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nikhiljha/WhatsApp-Desktop/issues"
   },
-  "homepage": "https://github.com/nikhiljha/WhatsApp-Desktop#readme"
+  "homepage": "https://github.com/nikhiljha/WhatsApp-Desktop#readme",
+  "dependencies": {
+    "electron": "^0.4.1"
+  }
 }
