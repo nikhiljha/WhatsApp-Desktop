@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-desktop",
+  "version": "0.0.1",
+  "description": "A desktop client for Telegram, written in node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhiljha/WhatsApp-Desktop.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "Nikhil Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhiljha/WhatsApp-Desktop/issues"
+  },
+  "homepage": "https://github.com/nikhiljha/WhatsApp-Desktop#readme"
+}
